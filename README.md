@@ -1,8 +1,8 @@
-- 👋 Assalomu aleykum va Rahmatullohu va Barokatuhu
+- 👋🏻 Assalomu aleykum va Rahmatullohu va Barokatuhu
 - Gozieva Umida Baxtiyor qizi
 - Intern Front-end (veb) dasturchi
  
-<img height="40" width="40" src="https://cdn.simpleicons.org/samsung" /> A12   <img height="32" width="32" src="https://cdn.simpleicons.org/lenovo/gray" /> 
+<img height="45" width="45" src="https://cdn.simpleicons.org/samsung" /> A12   <img height="45" width="45" src="https://cdn.simpleicons.org/lenovo/gray" /> 
 
 Biladiganlarim:
 
