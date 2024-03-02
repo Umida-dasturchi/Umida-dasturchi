@@ -1,20 +1,32 @@
 <h1 align="left">👋🏻 Assalomu aleykum va Rahmatullohu va Barokatuhu</h1>
 <p align="left">Gozieva Umida Baxtiyor qizi</p>
 <h2 align="left">Intern Front-end (veb) dasturchi</h2>
-<img alt="Static Badge" src="https://img.shields.io/badge/visualstudiocode-One_love-007ACC">
+<img alt="Static Badge" src="https://img.shields.io/badge/Visual_Studio_Code-One_love-007ACC">
 
 <h3 align="left">Man bilan bog'lanish: 🤝</h3>
 
-<img height="32" width="32" src="https://cdn.simpleicons.org/instagram" /> <img height="32" width="32" src="https://cdn.simpleicons.org/telegram" /> <img height="32" width="32" src="https://cdn.simpleicons.org/x" />
- 
-<img height="45" width="45" src="https://cdn.simpleicons.org/samsung" /> A12   <img height="45" width="45" src="https://cdn.simpleicons.org/lenovo/gray" /> 
+<img align="left" height="32" width="32" src="https://cdn.simpleicons.org/instagram" /> <a href="https://www.instagram.com/umida_dasturchi/">
+<img align="left" height="32" width="32" src="https://cdn.simpleicons.org/telegram" />
+<img align="left" height="32" width="32" src="https://cdn.simpleicons.org/x" />
 
-Biladiganlarim:
+###
 
-<img height="32" width="32" src="https://cdn.simpleicons.org/html5" /> <img height="32" width="32" src="https://cdn.simpleicons.org/css3" /> <img height="32" width="32" src="https://cdn.simpleicons.org/bootstrap" /> <img height="32" width="32" src="https://cdn.simpleicons.org/github" /> 
+<img align="right" height="45" width="45" src="https://cdn.simpleicons.org/lenovo/gray" />
+<img align="right" height="45" width="45" src="https://cdn.simpleicons.org/samsung" />
+<h2 align="right">A<sup>12</sup></h2>
 
+<h3 align="left">Biladiganlarim:</h3>
 
-Kelajakda o'rganadiganlarim:
+<div align="left">
+<img height="32" width="32" src="https://cdn.simpleicons.org/html5" />
+<img height="32" width="32" src="https://cdn.simpleicons.org/css3" />
+<img height="32" width="32" src="https://cdn.simpleicons.org/bootstrap" />
+<img height="32" width="32" src="https://cdn.simpleicons.org/github" /> 
+</div>
+
+###
+
+<h3 align="left">Kelajakda o'rganadiganlarim:</h3>
 
 <img height="32" width="32" src="https://cdn.simpleicons.org/javascript" /> <img height="32" width="32" src="https://cdn.simpleicons.org/react" /> <img height="32" width="32" src="https://cdn.simpleicons.org/angular" /> <img height="32" width="32" src="https://cdn.simpleicons.org/vuedotjs" /> <img height="32" width="32" src="https://cdn.simpleicons.org/tailwindcss" /> <img height="32" width="32" src="https://cdn.simpleicons.org/gitlab" /> <img height="32" width="32" src="https://cdn.simpleicons.org/git" /> <img height="32" width="32" src="https://cdn.simpleicons.org/npm" />  <img height="32" width="32" src="https://cdn.simpleicons.org/sass" /> <img height="32" width="32" src="https://cdn.simpleicons.org/less" /> <img height="32" width="32" src="https://cdn.simpleicons.org/python" /> <img height="32" width="32" src="https://cdn.simpleicons.org/nodedotjs" />
 <img height="32" width="32" src="https://cdn.simpleicons.org/php" /> 
