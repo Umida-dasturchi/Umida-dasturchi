@@ -1,9 +1,9 @@
-- 👋🏻 Assalomu aleykum va Rahmatullohu va Barokatuhu
-- Gozieva Umida Baxtiyor qizi
-- Intern Front-end (veb) dasturchi
- <img alt="Static Badge" src="https://img.shields.io/badge/visualstudiocode-One_love-007ACC">
+<h1 align="left">👋🏻 Assalomu aleykum va Rahmatullohu va Barokatuhu</h1>
+<p align="left">Gozieva Umida Baxtiyor qizi</p>
+<h2 align="left">Intern Front-end (veb) dasturchi</h2>
+<img alt="Static Badge" src="https://img.shields.io/badge/visualstudiocode-One_love-007ACC">
 
- Man bilan bog'lanish: 🤝
+<h3 align="left">Man bilan bog'lanish: 🤝</h3>
 
 <img height="32" width="32" src="https://cdn.simpleicons.org/instagram" /> <img height="32" width="32" src="https://cdn.simpleicons.org/telegram" /> <img height="32" width="32" src="https://cdn.simpleicons.org/x" />
  
