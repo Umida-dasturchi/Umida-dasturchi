@@ -1,13 +1,22 @@
 <h1 align="left">👋🏻 Assalomu aleykum va Rahmatullohu va Barokatuhu</h1>
 <p align="left">Gozieva Umida Baxtiyor qizi</p>
 <h2 align="left">Intern Front-end (veb) dasturchi</h2>
-<img alt="Static Badge" src="https://img.shields.io/badge/visualstudiocode-One_love-007ACC">
+
+###
+
+<img alt="Static Badge" src="https://img.shields.io/badge/Visual_Studio_Code-One_love-007ACC">
+
+###
 
 <h3 align="left">Man bilan bog'lanish: 🤝</h3>
 
-<img height="32" width="32" src="https://cdn.simpleicons.org/instagram" /> <img height="32" width="32" src="https://cdn.simpleicons.org/telegram" /> <img height="32" width="32" src="https://cdn.simpleicons.org/x" />
+<a href="https://www.instagram.com/umida_dasturchi/">
+<img align="left" height="32" width="32" src="https://cdn.simpleicons.org/instagram" alt="An Instagram logo"/></a>
+<img align="left" height="32" width="32" src="https://cdn.simpleicons.org/telegram" />
+<img align="left" height="32" width="32" src="https://cdn.simpleicons.org/x" />
  
-<img height="45" width="45" src="https://cdn.simpleicons.org/samsung" /> A12   <img height="45" width="45" src="https://cdn.simpleicons.org/lenovo/gray" /> 
+<img height="45" width="45" src="https://cdn.simpleicons.org/samsung" /> A12
+<img height="45" width="45" src="https://cdn.simpleicons.org/lenovo/gray" /> 
 
 Biladiganlarim:
 
