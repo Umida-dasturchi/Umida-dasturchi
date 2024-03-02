@@ -44,7 +44,7 @@
  
 <img height="32" width="32" src="https://cdn.simpleicons.org/javascript" />
 <img height="32" width="32" src="https://cdn.simpleicons.org/react" />
-<img height="32" width="32" src="https://cdn.simpleicons.org/angular" />
+<img height="32" width="32" src="https://cdn.simpleicons.org/angular/red" />
 <img height="32" width="32" src="https://cdn.simpleicons.org/vuedotjs" />
 <img height="32" width="32" src="https://cdn.simpleicons.org/tailwindcss" />
 <img height="32" width="32" src="https://cdn.simpleicons.org/gitlab" />
