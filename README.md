@@ -62,6 +62,15 @@
 <img height="32" width="32" src="https://cdn.simpleicons.org/mysql" />  <img height="32" width="32" src="https://cdn.simpleicons.org/mongodb" /> 
 <img height="32" width="32" src="https://cdn.simpleicons.org/webpack" />  <img height="32" width="32" src="https://cdn.simpleicons.org/nextdotjs" /> 
 
+###
+<hr>
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=umida-dasturchi&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=blue-green&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=umida-dasturchi&locale=en&hide_title=true&layout=compact&card_width=320&langs_count=5&theme=blue-green&hide_border=false&order=2" height="150" alt="languages graph"  />
+  <img src="https://streak-stats.demolab.com?user=umida-dasturchi&locale=en&mode=daily&theme=blue-green&hide_border=false&border_radius=15&order=3" height="150" alt="streak graph"  />
+  <img src="https://github-profile-trophy.vercel.app?username=umida-dasturchi&theme=matrix&column=-1&row=1&margin-w=8&margin-h=8&no-bg=true&no-frame=false&order=4" height="150" alt="trophy graph"  />
+</div>
+
 <!---
 Umida-dasturchi/Umida-dasturchi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
