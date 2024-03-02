@@ -5,31 +5,59 @@
 ###
 
 <img alt="Static Badge" src="https://img.shields.io/badge/Visual_Studio_Code-One_love-007ACC">
+<hr>
 
 ###
 
 <h3 align="left">Man bilan bog'lanish: 🤝</h3>
-
+ 
 <a href="https://www.instagram.com/umida_dasturchi /">
 <img align="left" height="32" width="32" src="https://cdn.simpleicons.org/instagram" alt="An Instagram logo"/> </a>
 <a href="https://t.me/umidadeveloper" />
 <img align="left" height="32" width="32" src="https://cdn.simpleicons.org/telegram" /> </a>
 <a href="https://twitter.com/UmidaGozieva" />
 <img align="left" height="32" width="32" src="https://cdn.simpleicons.org/x" /> </a>
+<img align="right" height="45" width="45" src="https://cdn.simpleicons.org/lenovo/gray" /></div>
+<img align="right" height="45" width="45" src="https://cdn.simpleicons.org/samsung" />
+<h3 align="right">A<sup>12</sup></h3>
+
+<hr>
+
+###
+
+<h2>Biladiganlarim:</h2>
+
+<div align="left">
  
-<img height="45" width="45" src="https://cdn.simpleicons.org/samsung" /> A12
-<img height="45" width="45" src="https://cdn.simpleicons.org/lenovo/gray" /> 
+<img height="32" width="32" src="https://cdn.simpleicons.org/html5" />
+<img height="32" width="32" src="https://cdn.simpleicons.org/css3" />
+<img height="32" width="32" src="https://cdn.simpleicons.org/bootstrap" />
+<img height="32" width="32" src="https://cdn.simpleicons.org/github" />
 
-Biladiganlarim:
+</div>
 
-<img height="32" width="32" src="https://cdn.simpleicons.org/html5" /> <img height="32" width="32" src="https://cdn.simpleicons.org/css3" /> <img height="32" width="32" src="https://cdn.simpleicons.org/bootstrap" /> <img height="32" width="32" src="https://cdn.simpleicons.org/github" /> 
+###
 
+<h2>Kelajakda o'rganadiganlarim:</h2>
 
-Kelajakda o'rganadiganlarim:
-
-<img height="32" width="32" src="https://cdn.simpleicons.org/javascript" /> <img height="32" width="32" src="https://cdn.simpleicons.org/react" /> <img height="32" width="32" src="https://cdn.simpleicons.org/angular" /> <img height="32" width="32" src="https://cdn.simpleicons.org/vuedotjs" /> <img height="32" width="32" src="https://cdn.simpleicons.org/tailwindcss" /> <img height="32" width="32" src="https://cdn.simpleicons.org/gitlab" /> <img height="32" width="32" src="https://cdn.simpleicons.org/git" /> <img height="32" width="32" src="https://cdn.simpleicons.org/npm" />  <img height="32" width="32" src="https://cdn.simpleicons.org/sass" /> <img height="32" width="32" src="https://cdn.simpleicons.org/less" /> <img height="32" width="32" src="https://cdn.simpleicons.org/python" /> <img height="32" width="32" src="https://cdn.simpleicons.org/nodedotjs" />
+<div align="left">
+ 
+<img height="32" width="32" src="https://cdn.simpleicons.org/javascript" />
+<img height="32" width="32" src="https://cdn.simpleicons.org/react" />
+<img height="32" width="32" src="https://cdn.simpleicons.org/angular" />
+<img height="32" width="32" src="https://cdn.simpleicons.org/vuedotjs" />
+<img height="32" width="32" src="https://cdn.simpleicons.org/tailwindcss" />
+<img height="32" width="32" src="https://cdn.simpleicons.org/gitlab" />
+<img height="32" width="32" src="https://cdn.simpleicons.org/git" />
+<img height="32" width="32" src="https://cdn.simpleicons.org/npm" />
+<img height="32" width="32" src="https://cdn.simpleicons.org/sass" />
+<img height="32" width="32" src="https://cdn.simpleicons.org/less" />
+<img height="32" width="32" src="https://cdn.simpleicons.org/python" />
+<img height="32" width="32" src="https://cdn.simpleicons.org/nodedotjs" />
 <img height="32" width="32" src="https://cdn.simpleicons.org/php" /> 
-<img height="32" width="32" src="https://cdn.simpleicons.org/django" />  <img height="32" width="32" src="https://cdn.simpleicons.org/laravel" /> 
+<img height="32" width="32" src="https://cdn.simpleicons.org/django" /> 
+<img height="32" width="32" src="https://cdn.simpleicons.org/laravel" />
+</div>
 
 <img height="32" width="32" src="https://cdn.simpleicons.org/mysql" />  <img height="32" width="32" src="https://cdn.simpleicons.org/mongodb" /> 
 <img height="32" width="32" src="https://cdn.simpleicons.org/webpack" />  <img height="32" width="32" src="https://cdn.simpleicons.org/nextdotjs" /> 
