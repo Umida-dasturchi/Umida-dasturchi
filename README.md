@@ -12,7 +12,7 @@
 
 <a href="https://www.instagram.com/umida_dasturchi /">
 <img align="left" height="32" width="32" src="https://cdn.simpleicons.org/instagram" alt="An Instagram logo"/> </a>
-<a href="https://.t.me/umidadeveloper" />
+<a href="https://t.me/umidadeveloper" />
 <img align="left" height="32" width="32" src="https://cdn.simpleicons.org/telegram" /> </a>
 <a href="https://twitter.com/UmidaGozieva" />
 <img align="left" height="32" width="32" src="https://cdn.simpleicons.org/x" /> </a>
