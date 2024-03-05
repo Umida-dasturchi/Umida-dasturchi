@@ -9,17 +9,17 @@
 
 ###
 
-<h3 align="left">Man bilan bog'lanish: 🤝</h3>
+<h2 align="left">Man bilan bog'lanish: 🤝</h2>
  
-<a href="https://www.instagram.com/umida_dasturchi /">
-<img align="left" height="32" width="32" src="https://cdn.simpleicons.org/instagram" alt="An Instagram logo"/> </a>
-<a href="https://t.me/umidadeveloper" />
-<img align="left" height="32" width="32" src="https://cdn.simpleicons.org/telegram" /> </a>
-<a href="https://twitter.com/UmidaGozieva" />
-<img align="left" height="32" width="32" src="https://cdn.simpleicons.org/x" /> </a>
-<img align="right" height="45" width="45" src="https://cdn.simpleicons.org/lenovo/gray" /></div>
-<img align="right" height="45" width="45" src="https://cdn.simpleicons.org/samsung" />
-<h3 align="right">A<sup>12</sup></h3>
+<a href="https://www.instagram.com/umida_dasturchi" target="_blank" />
+<img align="left" height="40" width="40" src="https://cdn.simpleicons.org/instagram" alt="An Instagram logo"/> </a>
+<a href="https://t.me/umidadeveloper" target="_blank" />
+<img align="left" height="40" width="40" src="https://cdn.simpleicons.org/telegram" alt="Telegram's logo" /> </a>
+<a href="https://twitter.com/UmidaGozieva" target="_blank" />
+<img align="left" height="40" width="40" src="https://cdn.simpleicons.org/x" alt="X's logo" /> </a>
+<img align="right" height="55" width="55" src="https://cdn.simpleicons.org/lenovo/gray" alt="Grey lenovo logo" /></div>
+<img align="right" height="55" width="55" src="https://cdn.simpleicons.org/samsung" alt="Samsung logo" />
+<h2 align="right">A<sup>12</sup></h2>
 
 <hr>
 
@@ -29,10 +29,10 @@
 
 <div align="left">
  
-<img height="32" width="32" src="https://cdn.simpleicons.org/html5" />
-<img height="32" width="32" src="https://cdn.simpleicons.org/css3" />
-<img height="32" width="32" src="https://cdn.simpleicons.org/bootstrap" />
-<img height="32" width="32" src="https://cdn.simpleicons.org/github" />
+<img height="40" width="40" src="https://cdn.simpleicons.org/html5" alt="HTML5's logo" />
+<img height="40" width="40" src="https://cdn.simpleicons.org/css3" alt="CSS's logo" />
+<img height="40" width="40" src="https://cdn.simpleicons.org/bootstrap" alt="A Bootstrap logo" />
+<img height="40" width="40" src="https://cdn.simpleicons.org/github" alt="GitHub's logo" />
 
 </div>
 
@@ -42,25 +42,28 @@
 
 <div align="left">
  
-<img height="32" width="32" src="https://cdn.simpleicons.org/javascript" />
-<img height="32" width="32" src="https://cdn.simpleicons.org/react" />
-<img height="32" width="32" src="https://cdn.simpleicons.org/angular/red" />
-<img height="32" width="32" src="https://cdn.simpleicons.org/vuedotjs" />
-<img height="32" width="32" src="https://cdn.simpleicons.org/tailwindcss" />
-<img height="32" width="32" src="https://cdn.simpleicons.org/gitlab" />
-<img height="32" width="32" src="https://cdn.simpleicons.org/git" />
-<img height="32" width="32" src="https://cdn.simpleicons.org/npm" />
-<img height="32" width="32" src="https://cdn.simpleicons.org/sass" />
-<img height="32" width="32" src="https://cdn.simpleicons.org/less" />
-<img height="32" width="32" src="https://cdn.simpleicons.org/python" />
-<img height="32" width="32" src="https://cdn.simpleicons.org/nodedotjs" />
-<img height="32" width="32" src="https://cdn.simpleicons.org/php" /> 
-<img height="32" width="32" src="https://cdn.simpleicons.org/django" /> 
-<img height="32" width="32" src="https://cdn.simpleicons.org/laravel" />
+<img height="40" width="40" src="https://cdn.simpleicons.org/javascript" alt="JavaScript's logo"/>
+<img height="40" width="40" src="https://cdn.simpleicons.org/react" alt="React's logo" />
+<img height="40" width="40" src="https://cdn.simpleicons.org/angular/red" alt="Angular's logo" />
+<img height="40" width="40" src="https://cdn.simpleicons.org/vuedotjs" alt="VueDot JS' logo" />
+<img height="40" width="40" src="https://cdn.simpleicons.org/tailwindcss" alt="Tailwind CSS's logo" />
+<img height="40" width="40" src="https://cdn.simpleicons.org/gitlab" alt="GitLab's logo" />
+<img height="40" width="40" src="https://cdn.simpleicons.org/git" alt="Git's logo" />
+<img height="40" width="40" src="https://cdn.simpleicons.org/npm" alt="NPM's logo" />
+<img height="40" width="40" src="https://cdn.simpleicons.org/sass" alt="Sass' logo" />
+<img height="40" width="40" src="https://cdn.simpleicons.org/less" alt="Less' logo" />
+<img height="40" width="40" src="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/267_Python_logo-512.png" alt="Python's logo"/>
+<img height="40" width="40" src="https://cdn.simpleicons.org/nodedotjs" alt="NodeDotJS' logo" />
+<img height="40" width="40" src="https://cdn.simpleicons.org/php" alt="Php's logo" /> 
+<img height="40" width="40" src="https://cdn.simpleicons.org/django" alt="Django's logo" /> 
+<img height="40" width="40" src="https://cdn.simpleicons.org/laravel" alt="Laravel's logo" />
+<img height="40" width="40" src="https://cdn.simpleicons.org/mysql" alt="MySQL's logo" />
+<img height="40" width="40" src="https://cdn.simpleicons.org/mongodb" alt="MongoDB's logo" /> 
+<img height="40" width="40" src="https://cdn.simpleicons.org/webpack" alt="WebPack's logo" />
+<img height="40" width="40" src="https://cdn.simpleicons.org/nextdotjs" alt="NextDotJS' logo" /> 
+
 </div>
 
-<img height="32" width="32" src="https://cdn.simpleicons.org/mysql" />  <img height="32" width="32" src="https://cdn.simpleicons.org/mongodb" /> 
-<img height="32" width="32" src="https://cdn.simpleicons.org/webpack" />  <img height="32" width="32" src="https://cdn.simpleicons.org/nextdotjs" /> 
 
 ###
 <hr>
