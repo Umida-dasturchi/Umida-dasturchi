@@ -4,12 +4,13 @@
 
 ###
 
-<img alt="Static Badge" src="https://img.shields.io/badge/Visual_Studio_Code-One_love-007ACC">
+![Static Badge](https://img.shields.io/badge/Visual_Studio_Code-One_love-007ACC)
+
 <hr>
 
 ###
 
-<h2 align="left">Man bilan bog'lanish: 🤝</h2>
+## Man bilan bog'lanish: 🤝
  
 <a href="https://www.instagram.com/umida_dasturchi" target="_blank" />
 <img align="left" height="40" width="40" src="https://cdn.simpleicons.org/instagram" alt="An Instagram logo"/> </a>
@@ -25,7 +26,7 @@
 
 ###
 
-<h2>Biladiganlarim:</h2>
+## Biladiganlarim:
 
 <div align="left">
  
@@ -38,7 +39,7 @@
 
 ###
 
-<h2>Kelajakda o'rganadiganlarim:</h2>
+## Kelajakda o'rganadiganlarim:
 
 <div align="left">
  
