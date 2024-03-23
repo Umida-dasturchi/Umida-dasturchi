@@ -11,14 +11,13 @@
 ###
 
 ## Man bilan bog'lanish: 🤝
+
+[![Instagram](https://cdn.simpleicons.org/instagram)](https://www.instagram.com/umida_dasturchi/) (height="40" width="40")
  
-<a href="https://www.instagram.com/umida_dasturchi" target="_blank" />
-<img align="left" title="Instagram" height="40" width="40" src="https://cdn.simpleicons.org/instagram" alt="An Instagram logo"/> </a>
-<a href="https://t.me/umidadeveloper" target="_blank" />
-<img align="left" height="40" width="40" src="https://cdn.simpleicons.org/telegram" alt="Telegram's logo" /> </a>
-<a href="https://twitter.com/UmidaGozieva" target="_blank" />
-<img align="left" height="40" width="40" src="https://cdn.simpleicons.org/x" alt="X's logo" /> </a>
-<img align="right" height="55" width="55" src="https://cdn.simpleicons.org/lenovo/gray" alt="Grey lenovo logo" /></div>
+<img align="left" title="Instagram" height="40" width="40" src="" alt="An Instagram logo"/>
+<img align="left" height="40" width="40" src="https://cdn.simpleicons.org/telegram" alt="Telegram's logo" />
+<img align="left" height="40" width="40" src="https://cdn.simpleicons.org/x" alt="X's logo" />
+<img align="right" height="55" width="55" src="https://cdn.simpleicons.org/lenovo/gray" alt="Grey lenovo logo" />
 <img align="right" height="55" width="55" src="https://cdn.simpleicons.org/samsung" alt="Samsung logo" />
 <h2 align="right">A<sup>12</sup></h2>
 
