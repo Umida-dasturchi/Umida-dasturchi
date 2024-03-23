@@ -32,7 +32,6 @@
  
 <img height="40" width="40" src="https://cdn.simpleicons.org/html5" alt="HTML5's logo" />
 <img height="40" width="40" src="https://cdn.simpleicons.org/css3" alt="CSS's logo" />
-<img height="40" width="40" src="https://cdn.simpleicons.org/bootstrap" alt="A Bootstrap logo" />
 <img height="40" width="40" src="https://cdn.simpleicons.org/github" alt="GitHub's logo" />
 
 </div>
@@ -45,14 +44,12 @@
  
 <img height="40" width="40" src="https://cdn.simpleicons.org/javascript" alt="JavaScript's logo"/>
 <img height="40" width="40" src="https://cdn.simpleicons.org/react" alt="React's logo" />
-<img height="40" width="40" src="https://cdn.simpleicons.org/angular/red" alt="Angular's logo" />
 <img height="40" width="40" src="https://cdn.simpleicons.org/vuedotjs" alt="VueDot JS' logo" />
 <img height="40" width="40" src="https://cdn.simpleicons.org/tailwindcss" alt="Tailwind CSS's logo" />
 <img height="40" width="40" src="https://cdn.simpleicons.org/gitlab" alt="GitLab's logo" />
 <img height="40" width="40" src="https://cdn.simpleicons.org/git" alt="Git's logo" />
 <img height="40" width="40" src="https://cdn.simpleicons.org/npm" alt="NPM's logo" />
 <img height="40" width="40" src="https://cdn.simpleicons.org/sass" alt="Sass' logo" />
-<img height="40" width="40" src="https://cdn.simpleicons.org/less" alt="Less' logo" />
 <img height="40" width="40" src="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/267_Python_logo-512.png" alt="Python's logo"/>
 <img height="40" width="40" src="https://cdn.simpleicons.org/nodedotjs" alt="NodeDotJS' logo" />
 <img height="40" width="40" src="https://cdn.simpleicons.org/php" alt="Php's logo" /> 
