@@ -13,7 +13,7 @@
 ## Man bilan bog'lanish: 🤝
  
 <a href="https://www.instagram.com/umida_dasturchi" target="_blank" />
-<img align="left" height="40" width="40" src="https://cdn.simpleicons.org/instagram" alt="An Instagram logo"/> </a>
+<img align="left" title="Instagram" height="40" width="40" src="https://cdn.simpleicons.org/instagram" alt="An Instagram logo"/> </a>
 <a href="https://t.me/umidadeveloper" target="_blank" />
 <img align="left" height="40" width="40" src="https://cdn.simpleicons.org/telegram" alt="Telegram's logo" /> </a>
 <a href="https://twitter.com/UmidaGozieva" target="_blank" />
