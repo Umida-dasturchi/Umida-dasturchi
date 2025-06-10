@@ -15,7 +15,7 @@
 <img align="left" height="40" width="40" src="https://cdn.simpleicons.org/instagram" alt="An Instagram logo"/>
 <img align="left" height="40" width="40" src="https://cdn.simpleicons.org/telegram" alt="Telegram's logo" />
 <img align="left" height="40" width="40" src="https://cdn.simpleicons.org/facebook" alt="Telegram's logo" />
-<img align="left" height="40" width="40" src="https://cdn.simpleicons.org/x" alt="X's logo" />
+<img align="left" height="40" width="40" src="https://cdn.simpleicons.org/x" alt="X's logo" https://x.com/UmidaGozieva/>
 <img align="right" height="55" width="55" src="https://cdn.simpleicons.org/lenovo/gray" alt="Grey lenovo logo" />
 <img align="right" height="55" width="55" src="https://cdn.simpleicons.org/samsung" alt="Samsung logo" />
 <h2 align="right">A<sup>12</sup></h2>
