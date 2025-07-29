@@ -1,5 +1,5 @@
 <h1 align="left">👋🏻 Assalomu aleykum va Rahmatullohu va Barokatuhu</h1>
-<p align="left">Gozieva Umida Baxtiyor qizi</p>
+<p align="left">G'oziyeva Umida Baxtiyor qizi</p>
 <h2 align="left">Intern Front-end (veb) dasturchi</h2>
 
 ###
